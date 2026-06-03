@@ -4,5 +4,3 @@ python-dotenv
 openai
 sqlparse
 duckdb
-snowflake-connector-python[pandas]
-legacy-cgi
