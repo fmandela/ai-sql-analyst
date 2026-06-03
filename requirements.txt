@@ -5,3 +5,4 @@ openai
 sqlparse
 duckdb
 snowflake-connector-python[pandas]
+cgi
